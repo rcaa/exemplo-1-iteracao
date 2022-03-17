@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1ba24951e8d0430793da28eeaeec7c5c)](https://www.codacy.com/gh/rcaa/exemplo-1-iteracao/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rcaa/exemplo-1-iteracao&amp;utm_campaign=Badge_Grade)
 # Exemplo de projeto para a primeira iteração
 ## :octocat: Integrantes
 [Rodrigo Andrade](https://github.com/rcaa) | [Nome do segundo integrante](https) | [Nome do terceiro integrante](https) | [Nome do quarto integrante](https)
